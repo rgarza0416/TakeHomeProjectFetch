@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		FA333E7E2DEA4AA000EF8EFE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA333E7D2DEA4AA000EF8EFE /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		FADDED042DE965DF00372968 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA333E7D2DEA4AA000EF8EFE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FADDECF52DE965DE00372968 /* TakeHomeProjectFetch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TakeHomeProjectFetch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADDED032DE965DF00372968 /* TakeHomeProjectFetchTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TakeHomeProjectFetchTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADDED0D2DE965DF00372968 /* TakeHomeProjectFetchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TakeHomeProjectFetchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -78,6 +83,7 @@
 				FADDECF72DE965DE00372968 /* TakeHomeProjectFetch */,
 				FADDED062DE965DF00372968 /* TakeHomeProjectFetchTests */,
 				FADDED102DE965DF00372968 /* TakeHomeProjectFetchUITests */,
+				FA333E7D2DEA4AA000EF8EFE /* README.md */,
 				FADDECF62DE965DE00372968 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA333E7E2DEA4AA000EF8EFE /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
